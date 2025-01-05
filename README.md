@@ -1,7 +1,7 @@
 # ✨ Panupong Thongchoed ✨
 
 <div style="display: flex; align-items: center;">
-  <img src="img/Myself.jpg" alt="Image" style="margin-right: 10px;"/>
+  <img src="img/Myself.jpg" alt="Image" style="margin-right: width="200" height="150"/>
   <p>👋 **สวัสดี! ยินดีต้อนรับสู่โปรไฟล์ของฉัน**  
 ฉันเป็นนักพัฒนาซอฟต์แวร์ที่มีความสนใจใน **Web Development**, **Data Science**, และ **Machine Learning** 🚀</p>
 </div>
