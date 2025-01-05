@@ -7,7 +7,12 @@
 
 ---
 
-
+## 🔧 **ทักษะ**
+| **หมวดหมู่**       | **ทักษะที่ถนัด**                     |
+|---------------------|---------------------------------------|
+| **Programming**     | Python, JavaScript, PHP              |
+| **Frontend Tools**  | React.js, Tailwind CSS, Bootstrap    |
+| **Backend Tools**   | Node.js, Express.js, MySQL, MongoDB  |
 
 ---
 
