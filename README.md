@@ -1,8 +1,16 @@
 # ✨ Panupong Thongchoed ✨
 
-| รูปภาพ | รายละเอียด |
-|--------|------------|
-| <img src="img/Myself.jpg" alt="Image" style="border-radius: 50%; width: 120px;"> | **ชื่อ:** สมชาย นักพัฒนา<br>**อาชีพ:** นักพัฒนาซอฟต์แวร์<br>**ทักษะ:** Python, JavaScript, Docker<br>**อีเมล:** somchai@example.com<br>**เว็บไซต์:** [somchai.dev](https://somchai.dev) |
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="img/Myself.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+  <div>
+    <h2>สมชาย นักพัฒนา</h2>
+    <p><strong>อาชีพ:</strong> นักพัฒนาซอฟต์แวร์</p>
+    <p><strong>ทักษะ:</strong> Python, JavaScript, Docker</p>
+    <p><strong>ความสนใจ:</strong> Web Development, Data Science</p>
+    <p><strong>อีเมล:</strong> somchai@example.com</p>
+  </div>
+</div>
+
 
 ---
 
