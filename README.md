@@ -16,14 +16,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📂 **โปรเจกต์ที่น่าสนใจ**
 | โปรเจกต์         | รายละเอียด                              | ลิงก์                                     |
 |-------------------|-----------------------------------------|-------------------------------------------|
