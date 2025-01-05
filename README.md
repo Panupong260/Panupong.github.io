@@ -1,7 +1,7 @@
 # ✨ Panupong Thongchoed ✨
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="img/Myself.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="img/Myself.jpg" alt="image" style="margin-right: 50%; width: 150px;">
   <div>
     <h2>สมชาย นักพัฒนา</h2>
     <p><strong>อาชีพ:</strong> นักพัฒนาซอฟต์แวร์</p>
