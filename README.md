@@ -1,4 +1,4 @@
-# ✨ My Awesome GitHub Profile ✨
+# ✨ Panupong Thongchoed ✨
 
 ![Header Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+Profile)
 
