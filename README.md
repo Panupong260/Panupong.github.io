@@ -3,10 +3,11 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="img/Myself.jpg" alt="image" style="width: 150px;">
   <div>
-    <h2>สมชาย นักพัฒนา</h2>
-    <p><strong>อาชีพ:</strong> นักพัฒนาซอฟต์แวร์</p>
-    <p><strong>ทักษะ:</strong> Python, JavaScript, Docker</p>
-    <p><strong>ความสนใจ:</strong> Web Development, Data Science</p>
+    <h2>ภาณุพงศ์ ทองเชิด</h2>
+    <p><strong>คณะ:</strong> วิทยาศาสตร์ศรีราชา</p>
+    <p><strong>สาขา:</strong> วิทยาการคอมพิวเตอร์</p>
+    <p><strong>ชื่อเล่น:</strong> มอส</p>
+    <p><strong>ค:</strong> Web Development, Data Science</p>
     <p><strong>อีเมล:</strong> somchai@example.com</p>
   </div>
 </div>
