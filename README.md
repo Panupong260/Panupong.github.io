@@ -1,14 +1,14 @@
-# ✨ Panupong Thongchoed ✨
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="img/Myself.jpg" alt="image" style="width: 150px;">
   <div>
-    <h2>ภาณุพงศ์ ทองเชิด</h2>
+    <h2>Profile</h2>
+    <p>นาย ภาณุพงศ์ ทองเชิด</p>
     <p><strong>คณะ:</strong> วิทยาศาสตร์ศรีราชา</p>
     <p><strong>สาขา:</strong> วิทยาการคอมพิวเตอร์</p>
     <p><strong>ชื่อเล่น:</strong> มอส</p>
-    <p><strong>ค:</strong> Web Development, Data Science</p>
-    <p><strong>อีเมล:</strong> somchai@example.com</p>
+    <p><strong>วันเกิด:</strong> 26 สิงหาคม พ.ศ.2546</p>
+    <p><strong>งานอดิเรก:</strong> ออกกำลังกาย, เล่นเกม, วาดรูป</p>
   </div>
 </div>
 
