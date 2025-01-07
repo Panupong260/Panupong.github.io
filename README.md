@@ -18,17 +18,22 @@
 
 ## 📂 **โปรเจกต์**
 
-| โปรเจกต์         | ลิงก์                                     |
+| โปรเจกต์         | โปรแกรม                                     |
 |-------------------|-------------------------------------------|
 | Cake Ordering App | [Draw.io](https://github.com/your-repo) |
 |                   | [Figma]()                                          |
-| Dashboard จำนวนนักท่องเที่ยวและรายได้ปี 63        | [Demo](https://your-portfolio.com)        |
-| Dashboard
+| Dashboard จำนวนนักท่องเที่ยวและรายได้ปี 63        | [PowerBI](https://your-portfolio.com)        |
+| Dashboard การเกิดอบุบัติเหตุในปี 63 | [Tableau](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
+| เรียนรู้การใช้Saleforce | [Saleforce](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
+|
+
 
 ---
 
 ## 📫 **ติดต่อฉัน**
-📧 Email: [Panupong.tho26@gmail.com](panupong.tho26@gmail.com)  
+📧 Email: [Panupong.tho26@gmail.com](panupong.tho26@gmail.com)
+
 🌐 Github: [Panupong260](https://github.com/Panupong260/Panupong260.github.io)
+
 📞 Phone: 090-0831648
 
