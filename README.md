@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="img/Myself.jpg" alt="image" style="width: 150px;">
   <div>
-    <h2>Profile</h2>
+    <h2>📒Profile</h2>
     <p>นาย ภาณุพงศ์ ทองเชิด</p>
     <p><strong>คณะ:</strong> วิทยาศาสตร์ศรีราชา</p>
     <p><strong>สาขา:</strong> วิทยาการคอมพิวเตอร์</p>
@@ -20,12 +20,11 @@
 
 | โปรเจกต์         | โปรแกรม                                     |
 |-------------------|-------------------------------------------|
-| Cake Ordering App | [Draw.io](https://github.com/your-repo) |
-|                   | [Figma]()                                          |
+| ระบบการสั่งซื้อเค้กออนไลน์ | [Draw.io](https://github.com/your-repo),[Figma](https://www.figma.com/design/JzXvFBPVu83f1pFaeFzBQe/Cupcake?node-id=21-687&p=f&t=dAKRdBr7znRPzlgp-0) |
 | Dashboard จำนวนนักท่องเที่ยวและรายได้ปี 63        | [PowerBI](https://your-portfolio.com)        |
-| Dashboard การเกิดอบุบัติเหตุในปี 63 | [Tableau](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
+| ทำStroytelling โดยใช้ Dashboard การเกิดอบุบัติเหตุในปี 63 | [Tableau](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
 | เรียนรู้การใช้Saleforce | [Saleforce](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
-|
+
 
 
 ---
@@ -33,7 +32,7 @@
 ## 📫 **ติดต่อฉัน**
 📧 Email: [Panupong.tho26@gmail.com](panupong.tho26@gmail.com)
 
-🌐 Github: [Panupong260](https://github.com/Panupong260/Panupong260.github.io)
+📱ID-Line: Mos-mpc 
 
 📞 Phone: 090-0831648
 
