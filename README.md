@@ -21,7 +21,7 @@
 | โปรเจกต์         | โปรแกรม                                     |
 |-------------------|-------------------------------------------|
 | ระบบการสั่งซื้อเค้กออนไลน์ | [Draw.io](https://drive.google.com/file/d/1DbVgVGJKWvp2rsCFJYNo-wonBjFRNPjc/view),[Figma](https://www.figma.com/design/JzXvFBPVu83f1pFaeFzBQe/Cupcake?node-id=21-687&p=f&t=dAKRdBr7znRPzlgp-0) |
-| Dashboard จำนวนนักท่องเที่ยวและรายได้ปี 63        | [PowerBI](https://your-portfolio.com)        |
+| Dashboard จำนวนนักท่องเที่ยวและรายได้ปี 63        | [PowerBI](https://drive.google.com/file/d/1SJ97q5rA2kdRVSFWjL774l6gWn1YuGvb/view?usp=sharing)        |
 | ทำStroytelling โดยใช้ Dashboard การเกิดอบุบัติเหตุในปี 63 | [Tableau](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
 | เรียนรู้การใช้Saleforce | [Saleforce](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
 
